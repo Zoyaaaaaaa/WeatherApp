@@ -1,6 +1,8 @@
 This website is built using REACT and Open weather API.
+
+
 Summer
-![image](https://github.com/Zoyaaaaaaa/WeatherApp/assets/126981793/97bd9b2a-f754-4249-87fe-d9cbe8cbcde9)
+![image](https://github.com/Zoyaaaaaaa/WeatherApp/assets/126981793/93534c61-925c-4105-aa0b-649012d579e7)
 Rainy
 ![image](https://github.com/Zoyaaaaaaa/WeatherApp/assets/126981793/bcb156bb-a95b-430a-be78-58135a7367ab)
 Winter
